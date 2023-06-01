@@ -1,0 +1,2 @@
+hashcat==22.8.28
+pyfiglet==0.8.post1
