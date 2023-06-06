@@ -10,7 +10,7 @@ import time
 
 try:
     start_time = time.time()  # gets system time, used for calculating total runtime.
-    banner = pyfiglet.figlet_format("GrayBox PCHistory Cruncher")
+    banner = pyfiglet.figlet_format("GrayBox PCHistory Crusher")
     print(banner)  # prints banner using pyfiglet
 
     cwd = os.getcwd()  # establishes the current working directory of the script
